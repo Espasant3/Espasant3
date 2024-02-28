@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Este repositorio serviría básicamente para mostrar en el perfil información destacada de mi que quiera mostrar
 <!--
 **Espasant3/Espasant3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
