@@ -6,9 +6,7 @@
 Passionate software developer looking forward to learn more about software development and system management. Equipped with knowledge and experience in a lot of technologies and tools. Graduated from the [Universidade de Santiago de Compostela](https://www.usc.gal/gl) (USC) and aiming to become a backend developer. Actively seeking opportunities to deepen and diversify skill set. 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Espasant3&theme=transparent )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espasant3&theme=transparent )
-[![trophy](https://github-profile-trophy.vercel.app/?username=Espasant3&theme=darkhub)](https://github.com/Espasant3)
 
 ## Additional Information
 - Graduated from the USC, actively seeking opportunities to diversify and increase my skill set.
