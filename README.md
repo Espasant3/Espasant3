@@ -8,7 +8,6 @@ Passionate software developer looking forward to learn more about software devel
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Espasant3&theme=transparent )
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espasant3&theme=transparent )
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Espasant3&theme=darkhub)](https://github.com/Espasant3)
